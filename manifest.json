@@ -2,9 +2,9 @@
   "short_name": "pwa من",
   "name": "اولین اپلیکیشن pwa من",
   "display": "standalone",
+  "background_color": "#ffffff",
   "theme_color": "#00FF00",
-  "start_url": "/about.html",
-  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "assets/icon/favicon-16x16.png",
